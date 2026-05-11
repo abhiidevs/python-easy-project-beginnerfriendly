@@ -161,9 +161,13 @@ pyttsx3
 # 🎯 Why This Project is Awesome
 
 ✨ Beginner-friendly
+
 ✨ Real-world application
+
 ✨ Easy to explain in presentations
+
 ✨ Improves Python fundamentals
+
 ✨ Fun and interactive project
 
 ---
