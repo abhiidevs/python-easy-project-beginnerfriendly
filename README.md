@@ -1,16 +1,7 @@
-# 🌍 Multi-Language Translator with Voice Output
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/ec3609fa-2b52-4017-8dc2-245b278d32ef" /># 🌍 Multi-Language Translator with Voice Output
 
-![Image](https://images.openai.com/static-rsc-4/2y87vZK3OP6Px-h1I_ICwnip_4jPvFOOwDyW2o5QnFe3RCGFzDd7Zl-ep8GRvZX-30romhxf3x2c8-z56OjOyMlLG8NYmdHobOknFBnFCJCUfCHFDTp8qHMmVjqk3Cs_C3sQOnICZCwz39K9bZO5RzAKBLmDdoGYOabgIPe-EnF5i3fSTI7dyinItoahj_uY?purpose=fullsize)
+https://images.openai.com/static-rsc-4/Cm3iRrUT9J0GlHsx_H0vf3plKZr44VjosiObbiNxPkaKPjAX0SrDeRphCKMMIPhTPhDzAcT3xyVBtVrHeXNNkSPTVIzXMF-7jNLMfUi8OJsZJT2mOhD0TGvkuEyR21kYmXI3bS8eebwPpZjOHjy2_SsZFsWEPoknbYXP_1GpEaamIemmuXROonYYu_t4drRE?purpose=fullsize
 
-![Image](https://images.openai.com/static-rsc-4/qK0G9wr5haDHuUmoUoF7ZJkaQnkcTzyLedmrAhuaalERAl5FZx5xFUKfEAvcV6hm1GkewVYvWUS9T4HHpVNxYAHyTUr8w9--J_cJvqtFXI_iglufnnAEzq1y0LWK64IiGry0YYhswny2la2EYpTqwwN7ws4Jaut8g6MpPCFkxeMCU0Pun25w6lq05H0hwMdF?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/J0Mwzz5iCR65p-7_V1L8jRfANedZI_4yk5H0Nsbz_rKWwBFhIV-BPwdGRbI834luOkgR119yQXN2BDi8iVxQRL6DK_9V57gxiqnYHA8Cb0YR7qKGjrbeAWkeVFBMp-C4WJgsW-dzAo9if8M6aBAfxmVeUnyc3CTz56TXXzSWxCoBHZKKTqpKKMsWWdWyw8lq?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/j9MNWtSf1w_5a4QltFjG_XsqVJxCkLe8qtnCM3cDOiyUfPelBMtIHzZPoUyjA1l4bYX1MT6AFlfYs3Z-I4pbwvwxHg6n6dYPsvPjAcMtwA2LT5fOLEqFzaH0aTIOGI_PxIk8xMMNq65oUAtoE8omcdZAVyxzd-apTtqArLbDTBR5Ajq_T1bqHoQIAWGhQPMk?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/zrBJZHcUiAYJpQKrbrqni8qd8bPd1NjWMNOHfCiYzYZADhJnqhMP9N5fGUWiaq073EFp3hyd6coXoeTtOgjI8Yn2scXwyY-rSenwU8dznW-rp5NlTQVbWFiIa-K7WamtuFZ0iQzZloLNQYpY7g47_1jcX9_TsPhwBPmPZRdHe3BUELgriE3ZrPuolKjvjEU_?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/9h3NUw9qS-ifn3TDXpXtXpZORXKiCCEcCXVaWS8P7SyaUMZQf4G7-SQ5H0Dfv7YtDoqr1ijIYaaeb5nrdvwfdbeJAtqeXuJz5Rcnjt3NnXyq0Zy09GD3NmlktR1SEAO7iArRkAwN0eGv_3kjyX6_cMDuunR05aZN1HtBsXdINSx7hbOPhQV9iHbYppISe3C9?purpose=fullsize)
 
 A simple yet powerful Python project that translates text into multiple languages and can also pronounce the translated text using voice output.
 
