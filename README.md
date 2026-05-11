@@ -1,7 +1,5 @@
 # 🌍 Multi-Language Translator with Voice Output
 
-# 🌍 Multi-Language Translator Project Preview
-
 ![Image](https://images.openai.com/static-rsc-4/Cm3iRrUT9J0GlHsx_H0vf3plKZr44VjosiObbiNxPkaKPjAX0SrDeRphCKMMIPhTPhDzAcT3xyVBtVrHeXNNkSPTVIzXMF-7jNLMfUi8OJsZJT2mOhD0TGvkuEyR21kYmXI3bS8eebwPpZjOHjy2_SsZFsWEPoknbYXP_1GpEaamIemmuXROonYYu_t4drRE?purpose=fullsize)
 
 These images match the idea of your project better and make the README look more professional, modern, and attractive for presentations or GitHub uploads.
