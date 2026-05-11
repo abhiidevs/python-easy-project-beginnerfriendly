@@ -20,10 +20,15 @@ This project is beginner-friendly and perfect for learning:
 # ✨ Features
 
 ✅ Translate text into **18+ languages**
+
 ✅ Automatic language detection
+
 ✅ Voice pronunciation support 🔊
+
 ✅ Interactive command-line interface
+
 ✅ Beginner-friendly project structure
+
 ✅ Fast and simple execution
 
 ---
